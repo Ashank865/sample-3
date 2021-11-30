@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+
+#Note{
+    color: red;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+}
+    
+.footer{
+    text-shadow: 5px 5px 5px rgba(43, 231, 5, 0.733);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+h2{
+    font-family: 'Bebas Neue', sans-serif; 
+    color:darkgreen;
+}
+#result_label{
+font-family: 'Courier New', Courier, monospace;
+font-weight: 900;
+}
+#result_accuracy{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+button{
+    width: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
